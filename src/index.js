@@ -11,7 +11,7 @@
 
  export default {
   id: 'ru',
-  patterns = [
+  patterns: [
   '.аб1р',
   '.аг1ро',
   '.ади2',
