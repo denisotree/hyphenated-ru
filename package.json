@@ -1,0 +1,23 @@
+{
+  "name": "hyphenated-ru",
+  "version": "1.0.0",
+  "keywords": [
+    "hyphenation",
+    "javascript",
+    "library",
+    "ru",
+    "russian"
+  ],
+  "homepage": "https://github.com/denisotree/hyphenated-ru",
+  "bugs": "https://github.com/denisotree/hyphenated-ru/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/denisotree/hyphenated-ru.git",
+    "directory": "/"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "engines": {
+    "node": ">=8"
+  }
+}
