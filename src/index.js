@@ -1,6 +1,5 @@
 /*
- * Copyright (C) 1990, 2004, 2005 Gerard D.C. Kuiken
- * Copyright (C) 2019 Sergey Solovev
+ * Copyright (C) 1999-2003 Alexander I. Lebedev
  * Copyright (C) 2019 Denis Vdovin
  *
  * Copying and distribution of this file, with or without modification,

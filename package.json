@@ -1,6 +1,6 @@
 {
   "name": "hyphenated-ru",
-  "version": "1.0.1",
+  "version": "1.2",
   "keywords": [
     "hyphenation",
     "javascript",
@@ -15,7 +15,7 @@
     "url": "https://github.com/denisotree/hyphenated-ru.git",
     "directory": "/"
   },
-  "license": "MIT",
+  "license": "LPPL",
   "main": "index.js",
   "engines": {
     "node": ">=8"

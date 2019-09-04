@@ -20,4 +20,4 @@ npm install hyphenated-ru
 
 ## License
 
-MIT
+LPPL 1.3c
