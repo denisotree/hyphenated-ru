@@ -1,4 +1,4 @@
-# hyphenated-en-us
+# hyphenated-ru
 
 This package contains hyphenation patterns and exceptions for the Russian language. It is intended to be used with the main `hyphenated` package
 but not included as a dependency.
