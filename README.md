@@ -9,12 +9,6 @@ information.
 ## Installation
 
 ```shell
-npm install hyphenated
-```
-
-To install separately from hyphenated:
-
-```shell
 npm install hyphenated-ru
 ```
 
